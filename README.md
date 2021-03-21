@@ -30,5 +30,6 @@ npm start
 ## Note
 The original app wont search for McDonalds of course but I was asked to change the theme until it was officially deployed and since McDonalds has many stores all around Rome it was perfect to showcase how the app works.
 
+#
 ####
 Work by Marco Falcone
