@@ -1,6 +1,6 @@
 # Roman McDonald's
 
-![Desktop 2021 03 21 - 16 46 20 04_1](https://user-images.githubusercontent.com/61291681/111911736-0ed47000-8a67-11eb-9b59-b1db49ba9875.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/61291681/111979382-4d206c80-8b05-11eb-84ee-cc0f4de82c21.gif)
 
 This app is part of a different project that I'm currently working on. Since this feature could be implemented in many different applications I decided to make a specific repo for the world to use. I was asked to build a location finder with an embedded map so doing some research I found this great article that helped me build exactly what I needed, - https://medium.com/launch-school/building-a-location-finder-app-powered-by-the-google-maps-javascript-api-bb6a37563de - the app provided in the article has been written in vanilla js so I wrote it from scratch using React.
 
