@@ -10,10 +10,10 @@ This app is part of a different project that I'm currently working on. Since thi
 - Iterate all the locations and calculate the distance between each location and the user using the Haversine formula
 - Show the locations whose distance is less or equal to the radius given
 - Show an info window with the relative address when a marker is clicked
-- Show an error message if no locations were found in the given radius
+- Show a message if no locations were found in the given radius
 
 ## How to use locally
-Unfortunately the google services are not free so I couldn't make a live demo of the app but you can get an API key here -> https://developers.google.com/maps/documentation/javascript/get-api-key for a free trial. When you have it download the repo and install node modules and packages
+Unfortunately the google services are not free so I couldn't make a live demo of the app but you can get an API key here -> https://developers.google.com/maps/documentation/javascript/get-api-key for a free trial(also make sure to activate the Geocoding API and the Maps Javascript API from the library). When you have it download the repo and install node modules and packages
 ```bash
 npm install
 ```
