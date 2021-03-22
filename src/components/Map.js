@@ -28,7 +28,6 @@ const Map = (props) => {
          lat: props.yourPing.latitude,
          lng: props.yourPing.longitude
        }}
-       onClick={() => console.log("You clicked me!")}
        icon={"https://ik.imagekit.io/7ol7k87qcca/Project/male-2_cR2wI4r8Jh2Qj.png"}
       />
       {props.pings.map( (ping, index) =>
