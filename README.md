@@ -1,4 +1,4 @@
-# Roman McDonald's
+# Roman McDonald's - Location Finder
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/61291681/111979382-4d206c80-8b05-11eb-84ee-cc0f4de82c21.gif)
 
