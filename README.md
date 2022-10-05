@@ -9,7 +9,3 @@
 - Show the locations whose distance is less or equal to the radius given
 - Show an info window with the relative address when a marker is clicked
 - Show a message if no locations were found in the given radius
-
-## Packages used
-- @react-google-maps/api for the embedded map;
-- Haversine for haversine formula module;
